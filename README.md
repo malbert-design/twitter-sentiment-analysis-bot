@@ -3,6 +3,10 @@
 A hobbyist twitter bot designed to retrive batches of tweets based on a particular hashtag and analyze the user sentiment of each tweet.
 This is a general learning project I am pursuing for understanding the Twitter API and data anlytics concepts.
 
+### Tool Integrations
+
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/malbert-design/twitter-sentiment-analysis-bot/?ref=repository-badge)
+
 ### Prerequisites
 
 - Python 3
